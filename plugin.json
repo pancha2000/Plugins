@@ -1,0 +1,9 @@
+{
+  "id": "com.myremote.gemini",
+  "name": "Remote Gemini AI",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "description": "Custom Gemini AI via GitHub Remote",
+  "author": "Your Name"
+}

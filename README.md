@@ -1,1 +1,2 @@
-# Plugins
+# Remote AI
+My safe remote plugin.
